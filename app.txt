@@ -1,3 +1,2 @@
 Application Name: Git Workflow Lab
 Version: 1.0
-extra login feature added
